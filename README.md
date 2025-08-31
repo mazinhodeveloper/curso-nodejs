@@ -12,7 +12,7 @@
 
 ### Descrição 
 - Curso: Desenvolvedor Web Back-end: NodeJs 
-Você aprenderá a configurar ambiente Node.js, desenvolvendo código JavaScript e executando no back-end. Também criará APTI Rest para acessar banco de dados e atender requisições HTTPs. 
+  - Você aprenderá a configurar ambiente Node.js, desenvolvendo código JavaScript e executando no back-end. Também criará APTI Rest para acessar banco de dados e atender requisições HTTPs. 
  - Duração: 40 horas 
  - Unidade: LAPA TITO 
  - Período: 31/05/2025 a 09/08/2025 
