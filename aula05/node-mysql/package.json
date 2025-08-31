@@ -1,0 +1,23 @@
+{
+  "name": "mysql",
+  "version": "1.0.0",
+  "description": "Sistema em NodeJS e MySQL",
+  "keywords": [
+    "nodejs",
+    "mysql"
+  ],
+  "license": "ISC",
+  "author": "Edmar Inocencio",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "mysql2": "^3.14.1",
+    "npm": "^11.4.2",
+    "sequelize": "^6.37.7"
+  }
+}
