@@ -1,4 +1,9 @@
-# Desenvolvedor Web Back-end: NodeJs
+> Aula 01   
+> Docente: Wanderson Guimaraes   
+> Data: 31/05/2025   
+
+
+# Desenvolvedor Web Back-End: NodeJs
 - Configurar o ambiente de desenvolvimento back-end, seguindo os padrões do Node.js
 - Criar serviços web, utilizando padrões de arquitetura REST
 - Manipular banco de dados: conceito de MER, MySQL, instruções SQL, conceito de ORM e models
@@ -20,18 +25,27 @@
 
 
 #### Docente / GitHub 
-- Docente: Wanderson Guimaraes / wanderson.cfguimarae@senacsp.edu.br 
-- GitHub: https://github.com/alunosnodesenac/Aulas-Node 
+- Docente: Wanderson Guimaraes   
+- GitHub: https://github.com/alunosnodesenac/Aulas-Node  
 - Terminal: git clone https://github.com/alunosnodesenac/Aulas-Node.git 
 
 
-### Requisitos do Projeto
-- Node.js: v22.16.0 ou maior 
-- https://nodejs.org 
-- NPM: 10.9.2 ou maior 
-- https://npmjs.com/package/npm 
+## GitHub / Curso NodeJS 
+https://github.com/mazinhodeveloper/curso-nodejs  
 
 
-### Rodando o Projeto
-- npm install 
-- npm run start 
+### Projeto   
+| Requisitos do Projeto      | URL                    |  
+|--------------------------- | ---------------------- |
+| Node.js: v22.16.0 ou maior | https://nodejs.org     |   
+| NPM: 10.9.2 ou maior       | https://npmjs.com      |   
+| Yarn: 1.22.22 ou maior     | https://yarnpkg.com    |  
+
+
+### Rodando o Projeto 
+| NPM                   | YARN                  |  
+|---------------------- |---------------------- |  
+| npm install           | yarn install          |   
+| npm run dev           | yarn dev              |     
+   
+Acesso: http://localhost:3000 / Checar o terminal   
