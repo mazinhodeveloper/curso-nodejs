@@ -23,3 +23,15 @@
 - Docente: Wanderson Guimaraes / wanderson.cfguimarae@senacsp.edu.br 
 - GitHub: https://github.com/alunosnodesenac/Aulas-Node 
 - Terminal: git clone https://github.com/alunosnodesenac/Aulas-Node.git 
+
+
+### Requisitos do Projeto
+- Node.js: v22.16.0 ou maior 
+- https://nodejs.org 
+- NPM: 10.9.2 ou maior 
+- https://npmjs.com/package/npm 
+
+
+### Rodando o Projeto
+- npm install 
+- npm run start 
